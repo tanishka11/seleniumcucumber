@@ -1,0 +1,5 @@
+Test functionality of "compose" button in Gmail. to send an email with body "Hello World"
+Scenario : verification of compose button.
+Given Open the Chrome and launch the application.
+When Enter the Username and Password	
+Then Send Email with body " Hello World"
